@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6r0170/X/v1
+canonical_location: https://kanripo.org/bkk/KR6r0170/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 伯亭大師傳記總帙
+  identifiers:
+    krp: KR6r0170
+    cbeta: X88n1656
+    cbeta_old_id: X88n1656
+    authorityid: CA0000335
+    json_key: X1656
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1656.xml
+    old_id: X88n1656
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0170_000-X.yaml, hash: 'sha256:b1fef58c93a69b84364dbdac2303b0c18cbfaec64ea0cfc7d240d0448283fbcf'}
+  - {seq: 1, filename: KR6r0170_001-X.yaml, hash: 'sha256:c7de47ca2a814287afa771b21fdedda9940557c38414175512834b133307ae2e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0170_000-X.markers.yaml, hash: 'sha256:05e642fb4eb3d57ea06b0a7433b567f1cba9023b4b760d589ed83973fdf62136'}
+  - {seq: 1, role: markers, filename: assets/KR6r0170_001-X.markers.yaml, hash: 'sha256:a2d6724aa052a2742e7fd7439f64e271460b00fe441350c6c0fb6a68b8ffa092'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0170_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 7069
+  label: 伯亭大師傳記總帙
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0170_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: No. 1656-1 慈雲伯亭大師古希紀(自識實行)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0170_X_001-mulu-2
+    span:
+    - body
+    - 3411
+    - 3411
+  label: No. 1656-2 浙江天竺山灌頂伯亭大師塔誌銘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0170_X_001-mulu-3
+    span:
+    - body
+    - 6513
+    - 6513
+  label: No. 1656-3 上竺灌頂大師囑法語
+  type: mulu
+  level: 1
+hash: sha256:252ec57df61ce6c87e6ef93737a942b28deee6f1680acdb18096028b02b87c64

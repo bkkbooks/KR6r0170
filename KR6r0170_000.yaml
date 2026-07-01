@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0170/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 伯亭大師傳記總帙
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X88/X88n1656.xml
+    old_id: X88n1656
+hash: sha256:b1fef58c93a69b84364dbdac2303b0c18cbfaec64ea0cfc7d240d0448283fbcf
