@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0170_000.yaml, hash: 'sha256:b1fef58c93a69b84364dbdac2303b0c18cbfaec64ea0cfc7d240d0448283fbcf'}
-  - {seq: 1, filename: KR6r0170_001.yaml, hash: 'sha256:420d9b22259b73202b94bccd08e5b7f2f9a3b1240fe031e70461ad6246db6b5e'}
+  - {seq: 1, filename: KR6r0170_001.yaml, hash: 'sha256:c7de47ca2a814287afa771b21fdedda9940557c38414175512834b133307ae2e'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0170_001.markers.yaml, hash: 'sha256:506fb9ed8191906decf57c9a786729fa3a2cef15e5fb91e31870eccbc01d637d'}
+  - {seq: 0, role: markers, filename: assets/KR6r0170_000.markers.yaml, hash: 'sha256:7890f2fd6a005dde2cf53f159e5d4959925d073d46b5b5d0408f4517e35e7ae9'}
+  - {seq: 1, role: markers, filename: assets/KR6r0170_001.markers.yaml, hash: 'sha256:2991ccf14028f2a77b1f5d09924fa7de269ce1d9cc66a4f030b4497715f89789'}
 table_of_contents:
 - ref:
     seq: 1
@@ -66,7 +67,4 @@ table_of_contents:
   label: No. 1656-3 上竺灌頂大師囑法語
   type: mulu
   level: 1
-hash: sha256:687cf93392952e146b5fc5fb321ebde55ea2a91dba059852d29d791a6f31eae1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:b1ef51c8a7d399e0be484b5855c432e802a3ce93883ae0aaa9d759d7ded4d0f0
