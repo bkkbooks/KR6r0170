@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0170/v1
 canonical_location: https://kanripo.org/bkk/KR6r0170/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 伯亭大師傳記總帙
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0170_000.yaml, hash: 'sha256:b1fef58c93a69b84364dbdac2303b0c18cbfaec64ea0cfc7d240d0448283fbcf'}
-  - {seq: 1, filename: KR6r0170_001.yaml, hash: 'sha256:c7de47ca2a814287afa771b21fdedda9940557c38414175512834b133307ae2e'}
+  - {seq: 1, filename: KR6r0170_001.yaml, hash: 'sha256:98bb9bfb804b82dfa96ad79edf50b79bb1db4d1241b4d73267fa83e719ed0b48'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0170_000.markers.yaml, hash: 'sha256:7890f2fd6a005dde2cf53f159e5d4959925d073d46b5b5d0408f4517e35e7ae9'}
-  - {seq: 1, role: markers, filename: assets/KR6r0170_001.markers.yaml, hash: 'sha256:2991ccf14028f2a77b1f5d09924fa7de269ce1d9cc66a4f030b4497715f89789'}
+  - {seq: 1, role: markers, filename: assets/KR6r0170_001.markers.yaml, hash: 'sha256:bd40dc8bd90dce7f322e166e5f1d9197c347473f4b4b298992c4761096ff4864'}
 table_of_contents:
 - ref:
     seq: 1
@@ -67,4 +67,7 @@ table_of_contents:
   label: No. 1656-3 上竺灌頂大師囑法語
   type: mulu
   level: 1
-hash: sha256:b1ef51c8a7d399e0be484b5855c432e802a3ce93883ae0aaa9d759d7ded4d0f0
+hash: sha256:bfd41e199077193fae546ed368cad78b367d504bf69f17256de87072caa7dfd6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
